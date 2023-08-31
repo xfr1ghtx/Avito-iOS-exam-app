@@ -1,0 +1,12 @@
+/* 
+  Product Details.strings
+  AvitoTestExam
+
+  Created by Степан Потапов on 31.08.2023.
+  
+*/
+
+"descriptionLabel.text" = "Description";
+"writeButton.text" = "Write";
+"callButton.text" = "Call";
+

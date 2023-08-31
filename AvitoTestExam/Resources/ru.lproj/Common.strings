@@ -1,0 +1,17 @@
+/* 
+  Common.strings
+  AvitoTestExam
+
+  Created by Степан Потапов on 31.08.2023.
+  
+*/
+
+"Error" = "Ошибка";
+"ErrorMessage" = "Кажется что-то пошло не так, проверьте подключение к интернету";
+"Refresh" = "Обновить";
+
+"networkServiceError.notValidURL" = "Неправильный URL запроса";
+"networkServiceError.noInternetConnection" = "Отсутствует интернет соединение";
+"networkServiceError.parsingFailure" = "Ошибка декодирования";
+"networkServiceError.networkError" = "Сетевая ошибка";
+"networkServiceError.timeout" = "Вышло время запроса";

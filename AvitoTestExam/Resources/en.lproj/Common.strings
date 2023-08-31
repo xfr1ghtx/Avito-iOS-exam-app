@@ -1,0 +1,20 @@
+/* 
+  Common.strings
+  AvitoTestExam
+
+  Created by Степан Потапов on 31.08.2023.
+  
+*/
+
+"Error" = "Error";
+"ErrorMessage" = "It seems something went wrong, check your internet connection";
+"Refresh" = "Refresh";
+
+"networkServiceError.notValidURL" = "Incorrect request URL";
+"networkServiceError.noInternetConnection" = "There is no internet connection";
+"networkServiceError.parsingFailure" = "Decoding error";
+"networkServiceError.networkError" = "Network error";
+"networkServiceError.timeout" = "Request time has expired";
+
+
+
